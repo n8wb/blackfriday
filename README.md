@@ -1,6 +1,7 @@
 Blackfriday
 [![Build Status][BuildSVG]][BuildURL]
 [![Godoc][GodocV2SVG]][GodocV2URL]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fn8wb%2Fblackfriday.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fn8wb%2Fblackfriday?ref=badge_shield)
 ===========
 
 Blackfriday is a [Markdown][1] processor implemented in [Go][2]. It
@@ -371,3 +372,7 @@ License
    [BuildURL]: https://travis-ci.org/russross/blackfriday
    [GodocV2SVG]: https://godoc.org/gopkg.in/russross/blackfriday.v2?status.svg
    [GodocV2URL]: https://godoc.org/gopkg.in/russross/blackfriday.v2
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fn8wb%2Fblackfriday.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fn8wb%2Fblackfriday?ref=badge_large)
